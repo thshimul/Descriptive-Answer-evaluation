@@ -1,3 +1,3 @@
 # Descriptive-Answer-evaluation
-Descriptive Answer evaluation using neural network
-in machine learning run SSHOW/main
+Descriptive Answer evaluation machine learning libraries and   neural network .
+In machine learning run SSHOW/main.
