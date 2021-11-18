@@ -1,0 +1,13 @@
+Adhoc mode:
+In adhoc mode,each node communicates directly with other nodes, so no access point control is needed.
+Nodes in adhoc can communicate if they are within the same range.
+Most adhoc based WLAn uses Connection MAC protocols(e.g.CSMA).
+Bluetooth is a typical Adhoc network.
+No physicall infrastructure is needed.
+
+Infrastructure mode:
+In infrastructure mode, the communication occurs only between the wireless access point(AP),
+but not directly between wireless modes.
+Access point act as a bridge to other wireless or wired network.
+Most infrastructure based WLAN uses TDMA based protocols.
+IEEE 802.11 & HiperLANs are based in Infrastructure mode.

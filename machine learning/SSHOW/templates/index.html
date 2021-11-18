@@ -1,0 +1,50 @@
+<html>
+<head>
+    <title>upload</title>
+</head>
+<body>
+    <form action = "/success" method = "post" enctype="multipart/form-data">
+         <div >
+              <label for="sa" >  Student  Answer : </label>
+             <br>
+        <input type="file" name="student_file" id="sa"/>
+
+             </div>
+        <br>
+         <div>
+                <label for="kw">Key Words : </label>
+                  <br>
+                <input type="text" name="keywords" id="kw" size="150" placeholder="class room, hello">
+              </div>
+        <br>
+        <br>
+         <div>
+                <label for="kw">important sentence(optional) : </label>
+                  <br>
+                <input type="text" name="important sentence" id="im" size="150" placeholder="class room, hello">
+              </div>
+        <br>
+
+        <div >
+                <label for="qm">Question's marks : </label>
+            <br>
+                <input type="text" name="Question_marks" id="qm" size="5"  placeholder="Enter marks of the question">
+              </div>
+
+
+
+            <br>
+             <div >
+              <label for="rf" >Reference Answer : </label>
+             <br>
+        <input type="file" name="reference_file" id="rf"/>
+             </div>
+            <br>
+        <br>
+           <div >
+        <input type = "submit" value="marks calculate">
+ </div>
+
+    </form>
+</body>
+</html>

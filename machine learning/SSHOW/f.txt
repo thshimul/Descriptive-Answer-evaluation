@@ -1,0 +1,5 @@
+Path loss occurs when the received signal becomes weaker and
+weaker due to increasing distance between MS and BTS, even if
+there are no obstacles between the transmitting (Tx) and receiving
+(Rx) antenna.The path loss problem seldom leads to a dropped call because
+before the problem becomes extreme.

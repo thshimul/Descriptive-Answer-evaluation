@@ -1,0 +1,9 @@
+Adhoc Network:
+A BSS (Basic Set Service) without AP (Access point) is called Adhoc network.
+Connection through directly device.
+Speed Usually slower.
+
+Infrastructure:
+A BSS with an Access point is called infrastrucvture.
+Connection through an access point.
+Faster than an Adhoc Network.
